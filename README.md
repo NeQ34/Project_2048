@@ -4,7 +4,6 @@
 - [Uruchomienie](#uruchomienie)
 - [Zasady gry](#zasady-gry)
 - [Technologie](#technologie)
-- [Autor](#autor)
 
 ## Opis gry
 2048 to popularna gra logiczna, w której zadaniem gracza jest przesuwanie płytek na planszy, aby połączyć identyczne liczby. Każde połączenie dwóch takich samych płytek daje nową płytkę o sumie ich wartości. Celem jest osiągnięcie wartości 2048 na jednej z płytek.
