@@ -32,5 +32,8 @@
    * Celem gry jest osiągnięcie płytki z wartością 2048.
    * Gra kończy się, gdy nie można wykonać żadnego ruchu.
 
-### Text
+## Technologie
+   * Java 13
+   * Swing
+
 ![Opis GIF-a](https://github.com/user-attachments/assets/d1c18efa-c1da-4c46-b9a8-e6ac85e4d9af)
