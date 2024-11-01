@@ -13,10 +13,10 @@
 1. Upewnij się, że masz zainstalowaną Javę (Java JDK 8 lub nowszą).
 2. Sklonuj repozytorium na swój lokalny komputer:
    ```sh
-   git clone https://github.com/twoje-uzytkownik/nazwa-repozytorium.git
+   git clone https://github.com/NeQ34/Project_2048/tree/master/Project-2048
 3. Przejdź do katalogu z projektem:
    ``` sh
-   cd nazwa-repozytorium
+   cd Project-2048
 
 ### Text
 ![Opis GIF-a](https://github.com/user-attachments/assets/d1c18efa-c1da-4c46-b9a8-e6ac85e4d9af)
