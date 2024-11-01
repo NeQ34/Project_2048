@@ -13,7 +13,7 @@
 1. Upewnij się, że masz zainstalowaną Javę (Java JDK 8 lub nowszą).
 2. Sklonuj repozytorium na swój lokalny komputer:
    ```sh
-   link
+   git clone https://github.com/NeQ34/Project_2048.git
 3. Przejdź do katalogu z projektem:
    ``` sh
    cd Project-2048
@@ -23,7 +23,7 @@
    ``` sh
    javac src/*.java
 2. Uruchom grę:
-   ```sh
+   ``` sh
    java -cp src Main
 
 ## Zasady gry:
