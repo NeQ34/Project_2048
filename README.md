@@ -13,13 +13,24 @@
 1. Upewnij się, że masz zainstalowaną Javę (Java JDK 8 lub nowszą).
 2. Sklonuj repozytorium na swój lokalny komputer:
    ```sh
-   git clone https://github.com/NeQ34/Project_2048/tree/master/Project-2048
+   link
 3. Przejdź do katalogu z projektem:
    ``` sh
    cd Project-2048
 
 ## Uruchomienie
+1. Skompiluj pliki .java:
+   ``` sh
+   javac src/*.java
+2. Uruchom grę:
+   ```sh
+   java -cp src Main
 
+## Zasady gry:
+   * Gracz może przesuwać płytki w górę, dół, lewo lub prawo.
+   * Gdy dwie płytki o tej samej wartości dotkną się, łączą się, tworząc płytkę o podwojonej wartości.
+   * Celem gry jest osiągnięcie płytki z wartością 2048.
+   * Gra kończy się, gdy nie można wykonać żadnego ruchu.
 
 ### Text
 ![Opis GIF-a](https://github.com/user-attachments/assets/d1c18efa-c1da-4c46-b9a8-e6ac85e4d9af)
